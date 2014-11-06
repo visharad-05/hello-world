@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repository on GitHub.
+My first repository on GitHub. Still a long way to go.
